@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @betonera
+- 👀 I’m interested in HTML, CSS, JavaScript, Python
+- 🌱 I’m currently learning Full Stack Python
+- 💞️ I’m looking to collaborate on any service of full stack python
+- 📫 How to reach me (https://www.linkedin.com/in/paulo-almeida-4984ba103/) [link]
