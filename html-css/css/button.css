@@ -1,0 +1,16 @@
+button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
+    height: 60px;
+    border-radius: none;
+    border: 0;
+    background-color: rgb(78, 212, 0);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: inherit;
+    cursor: pointer;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 0px rgb(0, 0, 0);
+}
