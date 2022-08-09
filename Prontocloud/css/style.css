@@ -1,0 +1,176 @@
+html {
+
+    font-size: 62,5%;
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+body {
+    background-color: rgb(159, 240, 216);
+    
+}
+
+.main-container {
+    display: block;
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.container {
+    display: block;
+    float: left;
+    padding: 20px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1198px;
+}
+
+header {
+    background: rgb(42, 161, 165);
+    display: block;
+    padding: 20px;
+    float: left;
+    width: 100%;
+    border-bottom: 4px solid rgb(0, 0, 0);
+}
+
+h1, h2, h3, h4 {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 2.4rem;
+    color: #254159;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #2d6799;
+    margin-bottom: 20px;    
+}
+
+h3 {
+    font-size: 1.8rem;
+    color: #3a6e9b;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-size: 1.6rem;
+    color: #3b7cb6;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 10px;
+    line-height: 1.4;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#tenho-interesse {
+    background-color: #3c7aaf !important;
+    width: 100%;
+}
+
+#tenho-interesse form {
+    background-color: #3c7aaf !important;
+    
+}
+
+html .cog-cognito--styled .cog-header h1, :root:root:root:root:root .cog-cognito--styled .cog-header h1 {
+    background-color: #3c7aaf !important;
+}
+
+:root:root:root .cog-cognito--styled.cog-cognito--protect-css, :root:root .cog-cognito--styled.cog-cognito--protect-css:not(.el-select-dropdown--long) *, :root:root .cog-cognito--styled.cog-cognito--protect-css:not(.el-select-dropdown--long) *::before, :root:root .cog-cognito--styled.cog-cognito--protect-css:not(.el-select-dropdown--long) *::after {
+    background-color: #3c7aaf !important;
+}
+
+ol {
+    margin-left: 30px;
+}
+
+ol li {
+    font-size: 1.4rem;
+    color: #454545;
+}
+
+
+html .cog-abuse a, :root:root:root:root:root .cog-abuse a {
+    height: 0px !important;
+    overflow: hidden !important;    
+}
+
+section {
+  
+    display: block;
+    float: left;
+    font-size: 1.5rem; /* equivalente a 15px */ 
+    padding: 20px;
+    width: 100%;
+}
+
+section nav {
+    display: block;
+    float: left;
+    width: 20%;
+}
+
+nav li {
+    background: rgb(73, 165, 168);
+    margin: 1px 30px 4px 0;
+    padding: 13px; 
+}
+
+nav li:hover  {
+    background: rgb(4, 155, 160);
+}
+
+nav a { 
+    color:rgb(55, 77, 148);
+}
+
+nav a:hover { 
+    color:rgb(17, 40, 117);
+}
+
+section article {
+    display: block;
+    float: left;
+    width: 70%;
+    padding: 20px;
+}
+
+footer {
+    background-color: #a5cbec;
+    display: block;
+    float: left;
+    padding: 10px;
+    width: 100%;
+    }
+
+footer p {
+    color: #000000;
+    font-size: 30px;
+}
+
+footer small {
+    font-size: 80%;
+    display: block;
+}
+
+.cognito {
+    height: 400px;
+    overflow: hidden;
+    }
+
+html .cog-branding--minimal, html .cog-branding--minimal *, :root:root:root:root:root .cog-branding--minimal, :root:root:root:root:root .cog-branding--minimal * {
+    height: 0px !important;
+    overflow: hidden !important;
+}
+
